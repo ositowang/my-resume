@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build-resume": "resume export ./docs/resume.html --format html --theme stackoverflow"
+    "build-resume": "resume export ./docs/index.html --format html --theme stackoverflow"
   },
   "dependencies": {
     "jsonresume-theme-paper": "^0.5.0"
