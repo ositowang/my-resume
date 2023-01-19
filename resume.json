@@ -1,0 +1,119 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ren Wang",
+    "label": "Software Developer",
+    "image": "",
+    "email": "ositowang@gmail.com",
+    "phone": "(508) 667-2986",
+    "summary": "Results-driven Senior Front-End Developer with 4 years of experience in delivering user-centric UI libraries and applications that are widely adopted by more than 50 teams. Skilled in HTML, CSS, JavaScript, and jQuery, with expertise in popular frameworks such as React and Angular. Proven ability to design, develop and maintain scalable and high-performance UI components and libraries. Strong understanding of web design principles, accessibility standards and cross-browser compatibility. Strong problem-solving and communication skills with a proven ability to lead and collaborate with cross-functional teams. Committed to delivering high-quality, maintainable code on time and on budget",
+    "location": {
+      "address": "10601 NE 146th St",
+      "postalCode": "WA 98011",
+      "city": "Bothell",
+      "countryCode": "US",
+      "region": "Washington"
+    }
+  },
+  "work": [
+    {
+      "name": "Oracle",
+      "location": "Seattle, WA",
+      "position": "Software Engineer",
+      "startDate": "2020-03-02",
+      "highlights": [
+        "Successfully designed, implemented, and delivered several key front-end applications for the company’s cloud product, including logging, streaming, and search functionality, resulting in improved user experience and efficiency for internal teams.",
+        "Acted as a core member in the maintenance and development of the company’s UI libraries and SDK, which were utilized by over 100 internal teams.",
+        "Led the design, implementation, and migration of several critical components to the company’s new UI tech stack system, resulting in improved performance and scalability."
+      ]
+    },
+    {
+      "name": "Block Engineering",
+      "location": "Southborough, MA",
+      "position": "Software Engineer",
+      "startDate": "2019-06",
+      "endDate": "2020-03",
+      "highlights": [
+        "Collaborated with cross-functional teams to gather comprehensive requirements for a new user interface, and authored user scenarios to align with these requirements",
+        "Spearheaded the user interface team in executing the graphic design in accordance with the specified requirements and successfully transitioned the legacy interface to a modern, responsive design using Vue.js and TypeScript",
+        "Established an internal library of UI components to optimize and standardize the development process, ultimately increasing the efficiency of the UI development"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Homeward Pet Adoption Center",
+      "position": "Animal Care volunteer",
+      "url": "https://www.homewardpet.org/",
+      "startDate": "2021-08",
+      "summary": "Every cat and dog deserves a safe and loving home.",
+      "highlights": [
+        "Render aid to animals in distress and facilitate their placement in new homes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Worcester Polytechnic Institute (WPI)",
+      "url": "https://www.wpi.edu/",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2016-08",
+      "endDate": "2018-05"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-End",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript/Typescript",
+        "React/Vue",
+        "Web Components"
+      ]
+    },
+    {
+      "name": "Server-Side",
+      "keywords": ["Node.js", "C++", "Go", "Python"]
+    },
+    {
+      "name": "Game Development",
+      "keywords": ["Unity"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Animal Care",
+      "keywords": ["Pets re-homing", "Dog/Cat Care"]
+    },
+    {
+      "name": "Wood Carving",
+      "keywords": ["carving", "wood arts"]
+    },
+    {
+      "name": "photography",
+      "keywords": ["nature", "photographie art"]
+    }
+  ],
+
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
